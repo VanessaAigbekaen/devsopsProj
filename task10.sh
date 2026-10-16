@@ -1,1 +1,1 @@
-TEN
+echo TEN
