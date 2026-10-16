@@ -1,2 +1,2 @@
-echo 2
+echo TW0
 bash task3.sh
